@@ -1,4 +1,4 @@
-package main
+package ascendex
 
 type APIClient interface {
 	/*
